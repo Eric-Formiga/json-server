@@ -46,6 +46,6 @@
       "name": "Planejamento"
     }
   ],
-  "companys": [],
+  "companys": [{name: 'Eric Formiga Machado', cnpj: '12.314.131/2431-4_', nameFantasy: 'dfwf', numberOfEmployees: '1234'}],
   "contacts": []
 }
