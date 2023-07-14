@@ -18,21 +18,6 @@
       "name": "Planejamento"
     }
   ],
-  "companys": [
-    {
-       "name": "f2 TECH",
-        "id": 1,
-        "cnpj" : 12371636781674,
-        "nameFantasy" : "f2 tech",
-        "numberOfEmployees": 23,
-    },
-        {
-       "name": "Gloogle",
-        "id": 2,
-        "cnpj" : 14371636781674,
-        "nameFantasy" : "Gloogle",
-        "numberOfEmployees": 2399,
-    }
-  ],
+  "companys": [],
   "contacts": []
 }
