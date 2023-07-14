@@ -46,6 +46,6 @@
       "name": "Planejamento"
     }
   ],
-  "companys": [{"id":1, name: 'ztr', cnpj: '23424254543522', nameFantasy: 'ztr', numberOfEmployees: '123'}],
+  "companys": [],
   "contacts": []
 }
